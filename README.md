@@ -1,4 +1,4 @@
-Music Database Analysis - Using SQL
+# Music Database Analysis - Using SQL
 
 ## Overview
 
@@ -30,11 +30,11 @@ This project provides insights into employee performance, invoice trends, custom
 
 ## View Queries
 
-To view the complete set of SQL queries used for analysis, please refer to the [Queries Document](https://github.com/saurabhtripathiworks/Music-Store-Analysis---SQL/blob/main/Music%20Database%20Analysis%20-%20MySQL.sql).
+To view the complete set of SQL queries used for analysis, please refer to [Music Database Analysis - MySQL.sql](https://github.com/saurabhtripathiworks/Music-Store-Analysis---SQL/blob/main/Music%20Database%20Analysis%20-%20MySQL.sql).
 
 ## View Schema
 
-To view the database schema, please refer to the [Database Schema](https://github.com/saurabhtripathiworks/Music-Store-Analysis---SQL/blob/main/Music%20Database%20Schema.png).
+To view the database schema, please refer to [Music Database Schema](https://github.com/saurabhtripathiworks/Music-Store-Analysis---SQL/blob/main/Music%20Database%20Schema.png).
 
 ## Contact
 
